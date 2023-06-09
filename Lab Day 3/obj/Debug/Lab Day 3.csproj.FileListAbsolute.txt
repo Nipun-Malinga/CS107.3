@@ -1,0 +1,8 @@
+D:\Programming\C# Programming\Lab\Github\Lab_Files_.cs\Lab Day 3\bin\Debug\Lab Day 3.exe.config
+D:\Programming\C# Programming\Lab\Github\Lab_Files_.cs\Lab Day 3\bin\Debug\Lab Day 3.exe
+D:\Programming\C# Programming\Lab\Github\Lab_Files_.cs\Lab Day 3\bin\Debug\Lab Day 3.pdb
+D:\Programming\C# Programming\Lab\Github\Lab_Files_.cs\Lab Day 3\obj\Debug\Lab Day 3.csproj.AssemblyReference.cache
+D:\Programming\C# Programming\Lab\Github\Lab_Files_.cs\Lab Day 3\obj\Debug\Lab Day 3.csproj.SuggestedBindingRedirects.cache
+D:\Programming\C# Programming\Lab\Github\Lab_Files_.cs\Lab Day 3\obj\Debug\Lab Day 3.csproj.CoreCompileInputs.cache
+D:\Programming\C# Programming\Lab\Github\Lab_Files_.cs\Lab Day 3\obj\Debug\Lab Day 3.exe
+D:\Programming\C# Programming\Lab\Github\Lab_Files_.cs\Lab Day 3\obj\Debug\Lab Day 3.pdb

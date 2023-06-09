@@ -1,0 +1,15 @@
+D:\Programming\C# Programming\Lab\Github\Lab_Files_.cs\Lab Day 2\bin\Debug\net7.0\Lab Day 2.exe
+D:\Programming\C# Programming\Lab\Github\Lab_Files_.cs\Lab Day 2\bin\Debug\net7.0\Lab Day 2.deps.json
+D:\Programming\C# Programming\Lab\Github\Lab_Files_.cs\Lab Day 2\bin\Debug\net7.0\Lab Day 2.runtimeconfig.json
+D:\Programming\C# Programming\Lab\Github\Lab_Files_.cs\Lab Day 2\bin\Debug\net7.0\Lab Day 2.dll
+D:\Programming\C# Programming\Lab\Github\Lab_Files_.cs\Lab Day 2\bin\Debug\net7.0\Lab Day 2.pdb
+D:\Programming\C# Programming\Lab\Github\Lab_Files_.cs\Lab Day 2\obj\Debug\net7.0\Lab Day 2.csproj.AssemblyReference.cache
+D:\Programming\C# Programming\Lab\Github\Lab_Files_.cs\Lab Day 2\obj\Debug\net7.0\Lab Day 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C# Programming\Lab\Github\Lab_Files_.cs\Lab Day 2\obj\Debug\net7.0\Lab Day 2.AssemblyInfoInputs.cache
+D:\Programming\C# Programming\Lab\Github\Lab_Files_.cs\Lab Day 2\obj\Debug\net7.0\Lab Day 2.AssemblyInfo.cs
+D:\Programming\C# Programming\Lab\Github\Lab_Files_.cs\Lab Day 2\obj\Debug\net7.0\Lab Day 2.csproj.CoreCompileInputs.cache
+D:\Programming\C# Programming\Lab\Github\Lab_Files_.cs\Lab Day 2\obj\Debug\net7.0\Lab Day 2.dll
+D:\Programming\C# Programming\Lab\Github\Lab_Files_.cs\Lab Day 2\obj\Debug\net7.0\refint\Lab Day 2.dll
+D:\Programming\C# Programming\Lab\Github\Lab_Files_.cs\Lab Day 2\obj\Debug\net7.0\Lab Day 2.pdb
+D:\Programming\C# Programming\Lab\Github\Lab_Files_.cs\Lab Day 2\obj\Debug\net7.0\Lab Day 2.genruntimeconfig.cache
+D:\Programming\C# Programming\Lab\Github\Lab_Files_.cs\Lab Day 2\obj\Debug\net7.0\ref\Lab Day 2.dll
