@@ -1,0 +1,8 @@
+D:\Education\University\First Year\2nd Semester\C# Programming\CS107.3\Lab Day 5\Lab Day 5\bin\Debug\Lab Day 5.exe.config
+D:\Education\University\First Year\2nd Semester\C# Programming\CS107.3\Lab Day 5\Lab Day 5\bin\Debug\Lab Day 5.exe
+D:\Education\University\First Year\2nd Semester\C# Programming\CS107.3\Lab Day 5\Lab Day 5\bin\Debug\Lab Day 5.pdb
+D:\Education\University\First Year\2nd Semester\C# Programming\CS107.3\Lab Day 5\Lab Day 5\obj\Debug\Lab Day 5.csproj.AssemblyReference.cache
+D:\Education\University\First Year\2nd Semester\C# Programming\CS107.3\Lab Day 5\Lab Day 5\obj\Debug\Lab Day 5.csproj.SuggestedBindingRedirects.cache
+D:\Education\University\First Year\2nd Semester\C# Programming\CS107.3\Lab Day 5\Lab Day 5\obj\Debug\Lab Day 5.csproj.CoreCompileInputs.cache
+D:\Education\University\First Year\2nd Semester\C# Programming\CS107.3\Lab Day 5\Lab Day 5\obj\Debug\Lab Day 5.exe
+D:\Education\University\First Year\2nd Semester\C# Programming\CS107.3\Lab Day 5\Lab Day 5\obj\Debug\Lab Day 5.pdb
