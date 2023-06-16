@@ -10,7 +10,7 @@ namespace Lab_Day_5
     {
         static void Main(string[] args)
         {
-            /*int in1 = 0, in2 = 0, choice = 0;
+            int in1 = 0, in2 = 0, choice = 0;
             while (true)
             {
                 Console.WriteLine("Enter Choice: ");
@@ -30,12 +30,7 @@ namespace Lab_Day_5
                 Console.WriteLine("The Value is" + c1.calculation());
                 Console.WriteLine("");
             }
-            Console.ReadLine();*/
-            Calculator c1 = new Calculator();
-            c1.hello();
-            
-            
-            
+            Console.ReadLine();
         }
     }
 }

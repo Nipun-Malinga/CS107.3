@@ -8,7 +8,6 @@ namespace Lab_Day_5
 {
     internal class Calculator
     {
-        /*
         public int choice;
         public int num1;
         public int num2;
@@ -40,11 +39,6 @@ namespace Lab_Day_5
                 output = num1 / num2;
             }         
             return output;
-            */
-        public void hello()
-        {
-            Console.WriteLine("Hello World");
-        }
         }
     }
 }
