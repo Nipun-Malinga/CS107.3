@@ -1,0 +1,8 @@
+D:\Education\University\First Year\2nd Semester\C# Programming\C# Lab Repo\Lab Day 7\Lab Day 7\bin\Debug\Lab Day 7.exe.config
+D:\Education\University\First Year\2nd Semester\C# Programming\C# Lab Repo\Lab Day 7\Lab Day 7\bin\Debug\Lab Day 7.exe
+D:\Education\University\First Year\2nd Semester\C# Programming\C# Lab Repo\Lab Day 7\Lab Day 7\bin\Debug\Lab Day 7.pdb
+D:\Education\University\First Year\2nd Semester\C# Programming\C# Lab Repo\Lab Day 7\Lab Day 7\obj\Debug\Lab Day 7.csproj.AssemblyReference.cache
+D:\Education\University\First Year\2nd Semester\C# Programming\C# Lab Repo\Lab Day 7\Lab Day 7\obj\Debug\Lab Day 7.csproj.SuggestedBindingRedirects.cache
+D:\Education\University\First Year\2nd Semester\C# Programming\C# Lab Repo\Lab Day 7\Lab Day 7\obj\Debug\Lab Day 7.csproj.CoreCompileInputs.cache
+D:\Education\University\First Year\2nd Semester\C# Programming\C# Lab Repo\Lab Day 7\Lab Day 7\obj\Debug\Lab Day 7.exe
+D:\Education\University\First Year\2nd Semester\C# Programming\C# Lab Repo\Lab Day 7\Lab Day 7\obj\Debug\Lab Day 7.pdb
